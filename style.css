@@ -18,12 +18,12 @@
     align-items: center;
   }
   .score h2 {
-    font-size: 30px;
+    font-size: 25px;
   }
   .score p {
     text-align: center;
     padding: 10px;
-    font-size: 25px;
+    font-size: 20px;
   }
   
   .intro {
@@ -37,7 +37,7 @@
   }
   
   .intro h1 {
-    font-size: 50px;
+    font-size: 30px;
   }
   .intro button,
   .match button {
@@ -69,7 +69,7 @@
   .winner {
     color: rgb(224, 224, 224);
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
   }
   
   .hands,
