@@ -43,6 +43,7 @@
   .match button {
     width: 100px;
     height: 50px;
+      gap:10px:
     background: none;
     border: none;
     color: rgb(224, 224, 224);
@@ -75,7 +76,8 @@
   .options {
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: center; 
+      padding: 8px;
   }
   
   .player-hand {
